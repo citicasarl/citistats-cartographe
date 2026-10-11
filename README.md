@@ -1,2 +1,17 @@
-# citistats-cartographe
-Outil de cartographie en ligne pour créer des cartes thématiques, visualiser des données statistiques et réaliser des analyses territoriales.
+# CITISTATS CARTO
+
+CITISTATS CARTO est un outil de cartographie en ligne
+permettant de créer des cartes thématiques et de
+visualiser des données statistiques territoriales.
+
+## Découvrir l'application
+
+🌍 [Accéder à CITISTATS CARTO](https://www.citistats.fr/cartographe/)
+
+## Fonctionnalités
+
+- Création de cartes interactives
+- Visualisation de données statistiques
+- Cartographie thématique
+- Analyse territoriale
+- Exportation de cartes
